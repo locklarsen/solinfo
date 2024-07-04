@@ -1,1 +1,1 @@
-# solinfo
+# solinfo Web site
